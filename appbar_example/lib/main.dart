@@ -22,6 +22,7 @@ class MyApp extends StatelessWidget {
           ],
           flexibleSpace: Container(
             decoration: BoxDecoration(
+              
                 gradient: LinearGradient(
                   colors: [Colors.blue, Colors.purple],
                   begin: FractionalOffset.topLeft,
